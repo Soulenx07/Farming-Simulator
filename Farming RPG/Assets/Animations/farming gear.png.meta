@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7c87f5550d3879d4bbcf4a4213d6e526
+guid: c07159f747272a74cae0798d83826aec
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: barn_0
+      name: farming gear_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
-        width: 96
-        height: 96
+        y: 48
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db4d2109ccdc2a54db6c8dffa0a8e45f
-      internalID: -1417089034
+      spriteID: 1249b0bab664a304db88a5d16f189ac0
+      internalID: 1486781921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: barn_1
+      name: farming gear_1
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 96
-        height: 96
+        x: 24
+        y: 48
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6414ac82d7f237e409227724b2ba958f
-      internalID: 1832794416
+      spriteID: d219dec1509ef4c4e8dd3db4c60ae806
+      internalID: -1479703610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: barn_2
+      name: farming gear_2
       rect:
         serializedVersion: 2
-        x: 192
-        y: 96
-        width: 96
-        height: 96
+        x: 48
+        y: 48
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +153,125 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 269d5da466d8cac4bbc85f65b761fff3
-      internalID: 1990194832
+      spriteID: e0f379e2985f79846b248034599eeaa7
+      internalID: 182498900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: barn_3
+      name: farming gear_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacde35261b85994fa5ded2cf08cfa84
+      internalID: 931864653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming gear_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f998b610e9164d4e9248b52ba7914b7
+      internalID: -664599472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming gear_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f504077b878fe144b1bb050e526a839
+      internalID: 350635899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming gear_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c378801921b4479fd131bbb09abd8
+      internalID: 1325348499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming gear_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c953032f1721fe949a1b6be238e5464b
+      internalID: 807907859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming gear_8
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 96
-        height: 96
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee59a73003cd0c44093da06eafdd95e8
-      internalID: -633067620
+      spriteID: 5c2e70a8e445cdb4a8aace1c5a6f4f8f
+      internalID: 1123658960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: barn_4
+      name: farming gear_9
       rect:
         serializedVersion: 2
-        x: 96
+        x: 24
         y: 0
-        width: 96
-        height: 96
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4677508ac85f4e418993f5c8923e7b2
-      internalID: -310981544
+      spriteID: 4e8c05f3b1eed7d4196a0408bb31566f
+      internalID: 728741521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: barn_5
+      name: farming gear_10
       rect:
         serializedVersion: 2
-        x: 192
+        x: 48
         y: 0
-        width: 96
-        height: 96
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,8 +321,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7b46d382209cac499ce8c200f3969cd
-      internalID: 1975273616
+      spriteID: a536bd4498f556a4cacc9bef987fde87
+      internalID: 579440606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming gear_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7fe80bfcc6fcb458084b7d2830ca9e
+      internalID: -226196310
       vertices: []
       indices: 
       edges: []
@@ -233,12 +359,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      barn_0: -1417089034
-      barn_1: 1832794416
-      barn_2: 1990194832
-      barn_3: -633067620
-      barn_4: -310981544
-      barn_5: 1975273616
+      farming gear_0: 1486781921
+      farming gear_1: -1479703610
+      farming gear_10: 579440606
+      farming gear_11: -226196310
+      farming gear_2: 182498900
+      farming gear_3: 931864653
+      farming gear_4: -664599472
+      farming gear_5: 350635899
+      farming gear_6: 1325348499
+      farming gear_7: 807907859
+      farming gear_8: 1123658960
+      farming gear_9: 728741521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
