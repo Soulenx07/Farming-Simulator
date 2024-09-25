@@ -1,9 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneSwitcher : MonoBehaviour
+public class SceneTransition : MonoBehaviour
 {
     public int sceneBuildIndex;
 
@@ -12,8 +13,8 @@ public class SceneSwitcher : MonoBehaviour
         print("Trigger Entered");
 
         if(other.tag == "Player")
-        { 
-            print("Swiching Scene to " + sceneBuildIndex);
+        {
+            print("Switching scene to " + sceneBuildIndex);
             SceneManager.LoadScene(sceneBuildIndex, LoadSceneMode.Single);
         }
     }
