@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: baby black goat sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304ebfcab1f9049b99ecbef7b39514ba
+      internalID: 1284229546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby black goat sheet_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82c0c829f214f3ca1fdbe7ef1922b6
+      internalID: -2140679412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby black goat sheet_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 30
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e263ea9f24a31453d9d58e21211dcee3
+      internalID: -220569257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby black goat sheet_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 29
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157eed9d4fea04c7e8c609026121963b
+      internalID: 1982356233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby black goat sheet_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 29
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8428b0914d154d078bf9c1dc63835ac
+      internalID: 1908238026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby black goat sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1ca19d226d84b57a15084c04a9c6ff
+      internalID: -1644583943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby black goat sheet_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af9267814bd4846b89fd2958a4f964
+      internalID: 1317942651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby black goat sheet_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702fbcc15e3d4c81a414fb2d4d514ce
+      internalID: -1024490589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby black goat sheet_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd3b6755584441d2a4fb081ca29902e
+      internalID: -262072818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby black goat sheet_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec63df728d81440f8bc77950c95aa614
+      internalID: -88116982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +316,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      baby black goat sheet_0: 1284229546
+      baby black goat sheet_1: -2140679412
+      baby black goat sheet_2: -220569257
+      baby black goat sheet_3: 1982356233
+      baby black goat sheet_4: 1908238026
+      baby black goat sheet_5: -1644583943
+      baby black goat sheet_6: 1317942651
+      baby black goat sheet_7: -1024490589
+      baby black goat sheet_8: -262072818
+      baby black goat sheet_9: -88116982
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

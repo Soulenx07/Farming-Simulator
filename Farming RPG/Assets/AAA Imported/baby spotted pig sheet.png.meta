@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: baby spotted pig sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54735c5b6321d41d5a0dee4ae66f5a00
+      internalID: -755900296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby spotted pig sheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 29
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501987627d5e4818b47d9d2ae546696
+      internalID: 1926641075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby spotted pig sheet_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 29
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548232d2012804e8289c6d4d4666692d
+      internalID: -497436233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby spotted pig sheet_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7324c8c6da77c451fa16fb5f631d736e
+      internalID: -885765189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby spotted pig sheet_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 29
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096901b0d5ab43999151a137f4364fc
+      internalID: 758374330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby spotted pig sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a54d388eb3a148068b65e899d88a991
+      internalID: 1330368392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby spotted pig sheet_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7689f98526054480cbbd65fba4b50747
+      internalID: 425579311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby spotted pig sheet_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c2f8c539a5042538738bef354f4d5c
+      internalID: -236500102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby spotted pig sheet_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6f9ef14aae24a86ab3dda6090e21e9
+      internalID: -1519026055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby spotted pig sheet_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77e2225ae5d1402292b973216c33fe3
+      internalID: 86249504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +316,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      baby spotted pig sheet_0: -755900296
+      baby spotted pig sheet_1: 1926641075
+      baby spotted pig sheet_2: -497436233
+      baby spotted pig sheet_3: -885765189
+      baby spotted pig sheet_4: 758374330
+      baby spotted pig sheet_5: 1330368392
+      baby spotted pig sheet_6: 425579311
+      baby spotted pig sheet_7: -236500102
+      baby spotted pig sheet_8: -1519026055
+      baby spotted pig sheet_9: 86249504
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

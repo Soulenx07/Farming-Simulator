@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda10a906b39435889d4265e67c7c7a
+      internalID: -520717919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a84b30b689944edaf4920b24877956
+      internalID: -816234870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 30
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64517eae496684d4ea79d2e85a3db8b6
+      internalID: 1683457385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 29
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b724b0bf368574b12a32679da48046be
+      internalID: -1784540548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 29
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5335b0f1374984ff8b79ac38765f00df
+      internalID: -1046547683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b502fd58a3f40ada5beca1f3ec55d2
+      internalID: -467015705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4594da143ecb2487c92146b6a42cf5f2
+      internalID: -500923151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c970576f1a41f5bd41a0d23db79aa
+      internalID: 580537977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bec59644da0145039bc93a536077d2b
+      internalID: -1598996316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby blackberry goat sheet_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941adc0288d614efda5887baaf90f8f1
+      internalID: 1192965598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +316,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      baby blackberry goat sheet_0: -520717919
+      baby blackberry goat sheet_1: -816234870
+      baby blackberry goat sheet_2: 1683457385
+      baby blackberry goat sheet_3: -1784540548
+      baby blackberry goat sheet_4: -1046547683
+      baby blackberry goat sheet_5: -467015705
+      baby blackberry goat sheet_6: -500923151
+      baby blackberry goat sheet_7: 580537977
+      baby blackberry goat sheet_8: -1598996316
+      baby blackberry goat sheet_9: 1192965598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

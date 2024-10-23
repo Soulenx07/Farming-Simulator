@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735d70f3fab994c808b1326281f4c91f
+      internalID: -932625636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20b12af3d9774c0ab5357603f0fccc0
+      internalID: 1756536717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 29
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffea465d6bf264038b59bde6efa798cd
+      internalID: -564324197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 29
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dca05375b144b7685bf4d33b046f8d
+      internalID: -973268389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 29
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88778d38a1dc744078303bf0447ea245
+      internalID: -544155987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9136e497fbcd4f31aaef288717add9d
+      internalID: 1533530242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb110d3a73784fbd8768c5d0f20a88c
+      internalID: -1604990874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2767285d4cd4efbadac55c0eb7c3c6
+      internalID: 718571056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399946158fe5e450cb778da822e005d7
+      internalID: -1581741231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby strawberry cow sheet_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3621e23d08de348038a2761d63a5a8ed
+      internalID: 1461506126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +316,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      baby strawberry cow sheet_0: -932625636
+      baby strawberry cow sheet_1: 1756536717
+      baby strawberry cow sheet_2: -564324197
+      baby strawberry cow sheet_3: -973268389
+      baby strawberry cow sheet_4: -544155987
+      baby strawberry cow sheet_5: 1533530242
+      baby strawberry cow sheet_6: -1604990874
+      baby strawberry cow sheet_7: 718571056
+      baby strawberry cow sheet_8: -1581741231
+      baby strawberry cow sheet_9: 1461506126
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

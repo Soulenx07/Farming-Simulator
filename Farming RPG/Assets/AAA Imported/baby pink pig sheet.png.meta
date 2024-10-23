@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: baby pink pig sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70d299decfc244db950dff853b9a4d5
+      internalID: 261002562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby pink pig sheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 29
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a425a863a2714780ae3ff80fd3a48ae
+      internalID: 2075399664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby pink pig sheet_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 29
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305e6349c08504a0ab37fec5e0fbe71f
+      internalID: 1709144863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby pink pig sheet_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf63f1f98e844f4919a3a65251fe79
+      internalID: -348769690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby pink pig sheet_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 29
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909e43cc80044b77a2d33ad87c0e912
+      internalID: -948172445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby pink pig sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840e13acced3649eea3e36ec361ecc80
+      internalID: -464551055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby pink pig sheet_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1da8286b9de46ad99014083d4b68ed
+      internalID: -1847966345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby pink pig sheet_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8227f97b4bd504d179f73a9b17a3108a
+      internalID: -1565031762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby pink pig sheet_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8b6ac3b8e1c4bb0960a1c97a3777a8
+      internalID: -713213459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baby pink pig sheet_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9171a2815ea421f9c5d76cf9631538
+      internalID: -456445968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +316,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      baby pink pig sheet_0: 261002562
+      baby pink pig sheet_1: 2075399664
+      baby pink pig sheet_2: 1709144863
+      baby pink pig sheet_3: -348769690
+      baby pink pig sheet_4: -948172445
+      baby pink pig sheet_5: -464551055
+      baby pink pig sheet_6: -1847966345
+      baby pink pig sheet_7: -1565031762
+      baby pink pig sheet_8: -713213459
+      baby pink pig sheet_9: -456445968
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
