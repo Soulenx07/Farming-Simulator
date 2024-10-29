@@ -14,13 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Map.unity
     guid: 1fe3e25cc9c1d42769ff9468fd34aeff
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Barn1.unity
     guid: 97bdfac6bda956648b2fefe9c89af40d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Barn1 1.unity
     guid: e792135233cc4534780c2394d6632433
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Barn1 2.unity
     guid: 002410fb00bedbd41a42f1d16dd6284c
   m_configObjects: {}

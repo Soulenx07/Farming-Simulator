@@ -101,18 +101,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 112
-        width: 16
-        height: 16
+        y: 0
+        width: 0
+        height: 0
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a3e028765fb1b46428c50844a9e6cc1d
-      internalID: -435561825
+      spriteID: c92264fac32bbc390800000000000000
+      internalID: -7796942356153490788
       vertices: []
       indices: 
       edges: []
@@ -132,14 +132,98 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b80e15517b7fd4194addd5e044f63cfb
-      internalID: 1366417416
+      spriteID: b290e67d17cc74148846623b3cfe9de2
+      internalID: 108067253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
       name: farm inside_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f7c6457af694bc6951f1472cf49054
+      internalID: -202213238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm inside_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e2d09db82047148354bafbfa44759
+      internalID: 240619867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm inside_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53b447bed21345cea38e95d41a93d9a
+      internalID: 1458383104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm inside_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68d672d7d25b436db27082edfdf80e2
+      internalID: -910446728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farm inside_6
       rect:
         serializedVersion: 2
         x: 48
@@ -153,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8b3c2ba54bac44e89392a35dc82c8a1
-      internalID: 2049570783
+      spriteID: 62998897e7b2c478da6a31ffb5745d31
+      internalID: -189035006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farm inside_3
+      name: farm inside_7
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
+        y: 0
         width: 48
-        height: 31
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,19 +258,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6d929f1014d44cb98614e08386d8c3c
-      internalID: -257060475
+      spriteID: 67a24e2a95d934eb08160e0c7a6ce1c7
+      internalID: 291798552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farm inside_4
+      name: farm inside_8
       rect:
         serializedVersion: 2
         x: 48
         y: 16
-        width: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -195,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d34e609da7714ddfb4803a6e676f978
-      internalID: -1356442777
+      spriteID: af280f298d08e454083da7ca08de2cd2
+      internalID: 852572666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farm inside_5
+      name: farm inside_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 33
-        width: 48
-        height: 31
+        x: 65
+        y: 16
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,8 +300,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 644d53441a0fa4f4897ced06f4cfa365
-      internalID: 2005876208
+      spriteID: a80ff70d407304fedb0d80f62bc08f7f
+      internalID: -1677632923
       vertices: []
       indices: 
       edges: []
@@ -225,7 +309,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: ef1ec0a625b10420b9b4ff9bea6df802
     internalID: 0
     vertices: []
     indices: 
@@ -233,12 +317,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      farm inside_0: -435561825
-      farm inside_1: 1366417416
-      farm inside_2: 2049570783
-      farm inside_3: -257060475
-      farm inside_4: -1356442777
-      farm inside_5: 2005876208
+      farm inside_0: -7796942356153490788
+      farm inside_1: 108067253
+      farm inside_2: -202213238
+      farm inside_3: 240619867
+      farm inside_4: 1458383104
+      farm inside_5: -910446728
+      farm inside_6: -189035006
+      farm inside_7: 291798552
+      farm inside_8: 852572666
+      farm inside_9: -1677632923
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

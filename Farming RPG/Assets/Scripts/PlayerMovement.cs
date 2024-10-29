@@ -15,9 +15,13 @@ public class PlayerMovement : MonoBehaviour
 
     private Vector2 input;
 
+    public VectorValue startingPosition;
+
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        transform.position = startingPosition.initialValue;
     }
     private void Update()
     {
